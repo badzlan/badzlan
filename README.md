@@ -1,5 +1,4 @@
-[![Masterhead](https://media.licdn.com/dms/image/D5616AQGYe-3TkZIWyA/profile-displaybackgroundimage-shrink_350_1400/0/1670753805123?e=1677715200&v=beta&t=5Si-T04HZHuT8_XtfYdGYsSz89otTZmM0HiJr6YqkuU)](https://github.com/badzlan)
-<h1 align="center">Hi 👋, I'm Badzlan Nur Dhabith</h1>
+<h1 align="center">Hi 👋, <a href="https://github.com/badzlan">I'm Badzlan Nur Dhabith</a></h1>
 <h3 align="center">A Cloud & Security Enthusiast from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
