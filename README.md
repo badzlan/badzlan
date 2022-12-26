@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **badzlandhabith05@gmail.com**
 
-<h3 align="left">Connect with me:</h3>|
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/badzlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="badzlan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/badzlannurdhabith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badzlannurdhabith" height="30" width="40" /></a>
