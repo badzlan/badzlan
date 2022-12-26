@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, <a href="https://github.com/badzlan">I'm Badzlan Nur Dhabith</a></h1>
+<h1 align="center">Hi 👋, I'm Badzlan Nur Dhabith</h1>
 <h3 align="center">A Cloud & Security Enthusiast from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
