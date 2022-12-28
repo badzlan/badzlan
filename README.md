@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development, Cyber Security, Cloud Computing and DevOps**
 
-- 👨‍💻 All of my projects are available at [badzlan.github.io](badzlan.github.io)
+- 👨‍💻 All of my projects are available at [badzlan.github.io](https://badzlan.github.io)
 
 - 💬 Ask me about **Programming, Networking, Linux and Security**
 
