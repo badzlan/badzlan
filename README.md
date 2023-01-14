@@ -37,4 +37,4 @@
 
 <h3 align="left">GitHub Trophies:</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=badzlan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=badzlan&theme=react&no-frame=false&no-bg=false&margin-w=4)
