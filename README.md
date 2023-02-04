@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badzlan Nur Dhabith</h1>
-<h3 align="center">A Back-end Developer from Indonesia</h3>
+<h3 align="center">A Back-End Developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badzlan&label=Profile%20views&color=0e75b6&style=flat" alt="badzlan" /> </p>
