@@ -2,7 +2,7 @@
 <h3 align="center">A Back-end Developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badzlan&label=Profile%20views&color=0e75b6&style=flat" alt="badzlan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=badzlan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> <img src="https://img.shields.io/github/followers/badzlan?label=Followers&style=social" alt="followers" /> <a href="https://www.linkedin.com/in/badzlannurdhabith/"><img src="https://img.shields.io/badge/-badzlannurdhabith-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/badzlannurdhabith/" alt="linkedin" /></a></p>
 
 - 🔭 I’m currently study on **SMK Negeri 69 Jakarta**
 
@@ -19,7 +19,7 @@
 <a href="https://codepen.io/badzlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="badzlan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/badzlannurdhabith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badzlannurdhabith" height="30" width="40" /></a>
 <a href="https://instagram.com/badzlan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="badzlan_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/badzlandhabith05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="badzlandhabith05" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/badzlandhabith05" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
