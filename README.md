@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badzlan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> <img src="https://img.shields.io/github/followers/badzlan?label=Followers&style=social" alt="followers" /></a></p>
 
-- 🔭 I’m working as **Back-end Developer Intern** at **Smarteschool ID**
+- 🔭 I’m working as **Back-end Developer** at **Smarteschool ID**
 
-- 🌱 I’m currently learning **Web Development, Cyber Security, Cloud Computing** and **DevOps**
+- 🌱 I’m currently learning **Next Js and Adonis Js**
 
 - 👨‍💻 All of my projects are available at **[badzlan.is-a.dev](https://badzlan.is-a.dev/)**
 
-- 💬 Ask me about **Programming, Networking, Linux** and **Security**
+- 💬 Ask me about **IT, Coding, and Development**
 
-- 📫 How to reach me **badzlandhabith05@gmail.com**
+- 📫 How to reach me **badzlannurdhabith@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
