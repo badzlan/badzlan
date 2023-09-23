@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badzlan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> <img src="https://img.shields.io/github/followers/badzlan?label=Followers&style=social" alt="followers" /></a></p>
 
-- 🔭 I’m working as **Back-end Developer** at **Smarteschool**
+- 🔭 I’m working as **Back-end Engineer** at **Smarteschool**
 
 - 🌱 I’m currently learning **Next Js and Adonis Js**
 
