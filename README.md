@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badzlan Nur Dhabith</h1>
-<h3 align="center">Software Developer from Indonesia</h3>
+<h3 align="center">Back-end Engineer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badzlan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> <img src="https://img.shields.io/github/followers/badzlan?label=Followers&style=social" alt="followers" /></a></p>
@@ -16,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/badzlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="badzlan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/badzlannurdhabith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badzlannurdhabith" height="30" width="40" /></a>
 <a href="https://instagram.com/badzlan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="badzlan_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/badzlandhabith05" target="blank"></a>
