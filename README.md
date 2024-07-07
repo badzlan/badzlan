@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badzlan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> <img src="https://img.shields.io/github/followers/badzlan?label=Followers&style=social" alt="followers" /></a></p>
 
-- 🔭 I’m working as **Back-end Engineer** at **Smarteschool**
+- 🔭 I’m a **Software Engineering Technology** student at **IPB University**
 
-- 🌱 I’m currently learning **Next Js and Adonis Js**
+- 🌱 I’m currently learning **Typescript** and **Golang**
 
 - 👨‍💻 All of my projects are available at **[badzlan.is-a.dev](https://badzlan.is-a.dev/)**
 
