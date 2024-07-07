@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badzlan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> <img src="https://img.shields.io/github/followers/badzlan?label=Followers&style=social" alt="followers" /></a></p>
 
-- 🔭 I’m a **Software Engineering Technology** student at **IPB University**
+- 🔭 I’m a **Software Engineering** student at **IPB University**
 
 - 🌱 I’m currently learning **Typescript** and **Golang**
 
