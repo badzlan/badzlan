@@ -6,7 +6,7 @@
 
 - 🔭 I’m a **Software Engineering** student at **IPB University**
 
-- 🌱 I’m currently learning **Typescript** and **Golang**
+- 🌱 I’m currently learning **TypeScript** and **Golang**
 
 - 👨‍💻 All of my projects are available at **[badzlan.is-a.dev](https://badzlan.is-a.dev/)**
 
