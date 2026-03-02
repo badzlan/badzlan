@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript** and **Golang**
 
-- 👨‍💻 All of my projects are available at **[badzlan.is-a.dev](https://badzlan.is-a.dev/)**
+- 👨‍💻 All of my projects are available at **[bento.me/badzlan](https://bento.me/badzlan/)**
 
 - 💬 Ask me about **IT, Coding, and Development**
 
@@ -44,15 +44,3 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-
-![badzlan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badzlan&theme=react&show_icons=true&hide_border=true&layout=compact)
-<br>
-![badzlan's Stats](https://github-readme-stats.vercel.app/api?username=badzlan&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
-<br>
-![badzlan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=badzlan&theme=react&hide_border=true)
-
-<h3 align="left">GitHub Trophies:</h3>
-
-![](https://github-profile-trophy.vercel.app/?username=badzlan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
